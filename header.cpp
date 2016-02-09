@@ -60,8 +60,6 @@ const int sz = 100005;
 
 int main()
 {
-    LL n;
-    cin >> n;
-    cout << n << endl;
+    printf("Hello Github!\n");
     return 0;
 }
